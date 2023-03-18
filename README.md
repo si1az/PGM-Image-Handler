@@ -11,3 +11,9 @@
   - column pixel average
   - total matrix pixel average
 - guyDude.pgm is the starter image to test with.
+
+# Starting Image
+<img src="https://github.com/si1az/PGM-Transformer/blob/main/imagesAsPNG/startingImage.png" width="250">
+
+# Resulting Image
+<img src="https://github.com/si1az/PGM-Transformer/blob/main/imagesAsPNG/finalImage.png" width="250">
